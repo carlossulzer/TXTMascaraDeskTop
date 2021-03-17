@@ -1,0 +1,14 @@
+C:\carlos\Programas\WINDOWS\TextMascara\TextMascara\obj\Debug\ResolveAssemblyReference.cache
+C:\carlos\Programas\WINDOWS\TextMascara\TextMascara\obj\Debug\TextMascara.TextMascara.resources
+C:\carlos\Programas\WINDOWS\TextMascara\TextMascara\obj\Debug\TextMascara.csproj.GenerateResource.Cache
+C:\carlos\Programas\WINDOWS\TextMascara\TextMascara\bin\Debug\TextMascara.dll
+C:\carlos\Programas\WINDOWS\TextMascara\TextMascara\bin\Debug\TextMascara.pdb
+C:\carlos\Programas\WINDOWS\TextMascara\TextMascara\obj\Debug\TextMascara.dll
+C:\carlos\Programas\WINDOWS\TextMascara\TextMascara\obj\Debug\TextMascara.pdb
+C:\carlos\Programas\WINDOWS\TextMascara_OLD\TextMascara\bin\Debug\TextMascara.dll
+C:\carlos\Programas\WINDOWS\TextMascara_OLD\TextMascara\bin\Debug\TextMascara.pdb
+C:\carlos\Programas\WINDOWS\TextMascara_OLD\TextMascara\obj\Debug\ResolveAssemblyReference.cache
+C:\carlos\Programas\WINDOWS\TextMascara_OLD\TextMascara\obj\Debug\TextMascara.TextMascara.resources
+C:\carlos\Programas\WINDOWS\TextMascara_OLD\TextMascara\obj\Debug\TextMascara.csproj.GenerateResource.Cache
+C:\carlos\Programas\WINDOWS\TextMascara_OLD\TextMascara\obj\Debug\TextMascara.dll
+C:\carlos\Programas\WINDOWS\TextMascara_OLD\TextMascara\obj\Debug\TextMascara.pdb

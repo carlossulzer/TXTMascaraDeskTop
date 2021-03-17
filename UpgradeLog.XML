@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="TextMascara">
+</Property><Property Name="Solution File" Value="C:\Carlos\Programas\windows\TextMascara\TextMascara.sln">
+</Property><Property Name="User Options File" Value="C:\Carlos\Programas\windows\TextMascara\TextMascara.suo">
+</Property><Property Name="Date" Value="quarta-feira, 27 de outubro de 2010">
+</Property><Property Name="Time" Value="00:48">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="TextMascara.sln" Description="File successfully backed up as C:\Carlos\Programas\windows\TextMascara\Backup\TextMascara.sln">
+</Event><Event ErrorLevel="0" Project="" Source="TextMascara.suo" Description="File successfully backed up as C:\Carlos\Programas\windows\TextMascara\Backup\TextMascara.suo">
+</Event><Event ErrorLevel="0" Project="TextMascara" Source="TextMascara\TextMascara.csproj" Description="Project file successfully backed up as C:\Carlos\Programas\windows\TextMascara\Backup\TextMascara\TextMascara.csproj">
+</Event><Event ErrorLevel="0" Project="TextMascara" Source="TextMascara\UserControl1.cs" Description="File successfully backed up as C:\Carlos\Programas\windows\TextMascara\Backup\TextMascara\UserControl1.cs">
+</Event><Event ErrorLevel="0" Project="TextMascara" Source="TextMascara\UserControl1.Designer.cs" Description="File successfully backed up as C:\Carlos\Programas\windows\TextMascara\Backup\TextMascara\UserControl1.Designer.cs">
+</Event><Event ErrorLevel="0" Project="TextMascara" Source="TextMascara\Properties\AssemblyInfo.cs" Description="File successfully backed up as C:\Carlos\Programas\windows\TextMascara\Backup\TextMascara\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="TextMascara" Source="TextMascara\ValidaCNPJ.cs" Description="File successfully backed up as C:\Carlos\Programas\windows\TextMascara\Backup\TextMascara\ValidaCNPJ.cs">
+</Event><Event ErrorLevel="0" Project="TextMascara" Source="TextMascara\ValidaCPF.cs" Description="File successfully backed up as C:\Carlos\Programas\windows\TextMascara\Backup\TextMascara\ValidaCPF.cs">
+</Event><Event ErrorLevel="0" Project="TextMascara" Source="TextMascara\ValidaEmail.cs" Description="File successfully backed up as C:\Carlos\Programas\windows\TextMascara\Backup\TextMascara\ValidaEmail.cs">
+</Event><Event ErrorLevel="0" Project="TextMascara" Source="TextMascara\UserControl1.resx" Description="File successfully backed up as C:\Carlos\Programas\windows\TextMascara\Backup\TextMascara\UserControl1.resx">
+</Event><Event ErrorLevel="1" Project="TextMascara" Source="TextMascara\TextMascara.csproj" Description="Your project is targeting .NET Framework 2.0 or 3.0. If your project uses assemblies requiring a newer .NET Framework, your project will fail to build. You can change the .NET Framework version by clicking Properties on the project menu and then selecting a new version in the '.NET Framework' dropdown box. (In Visual Basic, this is located on the Compile tab by clicking the 'Advanced Compiler Options...' button.)">
+</Event><Event ErrorLevel="0" Project="TextMascara" Source="TextMascara\TextMascara.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="TextMascara" Source="TextMascara\TextMascara.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="TextMascara.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="TextMascara.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="TextMascara" Source="TextMascara\TextMascara.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

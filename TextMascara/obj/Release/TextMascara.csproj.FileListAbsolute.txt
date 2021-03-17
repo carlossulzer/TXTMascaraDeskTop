@@ -1,0 +1,8 @@
+C:\Carlos\Programas\windows\TextMascara\TextMascara\bin\Release\TextMascara.dll
+C:\Carlos\Programas\windows\TextMascara\TextMascara\bin\Release\TextMascara.pdb
+C:\Carlos\Programas\windows\TextMascara\TextMascara\obj\Release\ResolveAssemblyReference.cache
+C:\Carlos\Programas\windows\TextMascara\TextMascara\obj\Release\TextMascara.TextMascara.resources
+C:\Carlos\Programas\windows\TextMascara\TextMascara\obj\Release\GenerateResource-ResGen.read.1.tlog
+C:\Carlos\Programas\windows\TextMascara\TextMascara\obj\Release\GenerateResource-ResGen.write.1.tlog
+C:\Carlos\Programas\windows\TextMascara\TextMascara\obj\Release\TextMascara.dll
+C:\Carlos\Programas\windows\TextMascara\TextMascara\obj\Release\TextMascara.pdb

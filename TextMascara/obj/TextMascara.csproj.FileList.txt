@@ -1,0 +1,7 @@
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\TextMascara.TextMascara.resources
+obj\Debug\TextMascara.csproj.GenerateResource.Cache
+obj\Debug\TextMascara.dll
+bin\Debug\TextMascara.dll
+bin\Debug\TextMascara.pdb
+obj\Debug\TextMascara.pdb
